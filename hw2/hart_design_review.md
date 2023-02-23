@@ -16,3 +16,4 @@ This paper proposed the design principle of a time-triggered low-power real-time
 
 - The selection of granularity of 10ms time slot defined in the standard is not well explained. Also how to select the length of superframe is also not well explained in the paper. Those parameters should have great impact on the scheduling model and scheduling algorithms.
 - 
+
